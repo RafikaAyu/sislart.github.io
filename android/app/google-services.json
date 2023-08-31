@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226071426211",
+    "project_id": "sislart-bigsu",
+    "storage_bucket": "sislart-bigsu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226071426211:android:258fbcfa43bacf7d8b3b16",
+        "android_client_info": {
+          "package_name": "com.bigsu.sislart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226071426211-irgffoq5tjf3a3tasm71b4o3jvmpq96r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-zlOavnS8ZMgB2kMfybxrJy6EnJAPyaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226071426211-h42u9nn8c8rpg5vh6tgdcmetsgapis90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
